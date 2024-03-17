@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-database-abstraction-layer",
+  "version": "1.0.0",
+  "description": "One Dionys (Database Abstraction Layer) - An abstraction layer for interacting with different types of databases in web applications, allowing portability and flexibility.",
+  "main": "src/database.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-database-abstraction-layer.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "database-abstraction-layer"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-database-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-database-abstraction-layer#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
