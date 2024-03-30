@@ -1,6 +1,6 @@
 {
   "name": "onedionys-database-abstraction-layer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Database Abstraction Layer) - An abstraction layer for interacting with different types of databases in web applications, allowing portability and flexibility.",
   "main": "src/database.js",
   "directories": {
